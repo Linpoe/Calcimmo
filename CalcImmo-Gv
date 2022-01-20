@@ -47,7 +47,7 @@ import java.text.DecimalFormat;
 import java.util.*;
 
 
-public class CalcImmo{
+public class CalcImmoFV{
 
    
 public static void main(String args[]){
