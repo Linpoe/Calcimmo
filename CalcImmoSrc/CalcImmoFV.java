@@ -1,5 +1,5 @@
  /*NOTES
-    vvvvvvvvvvvvvvvvvvvvvvv
+    
   
     Entrer dans l'ordre:
     -"Montant de l'emprunt immobilier : "
