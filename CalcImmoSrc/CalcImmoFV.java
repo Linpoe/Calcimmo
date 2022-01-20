@@ -1,4 +1,4 @@
- /*NOTES
+  /*NOTES
     
   
     Entrer dans l'ordre:
@@ -51,14 +51,12 @@ import java.util.*;
     //CLASS
 
 
-
 public class CalcImmoFV{
 
    
 public static void main(String args[]){
 
-    
-    //CLASS/fonctions
+   
 
     Scanner dd = new Scanner(System.in);
     DecimalFormat df = new DecimalFormat("###.##");
