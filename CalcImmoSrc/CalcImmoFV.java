@@ -1,5 +1,6 @@
  /*NOTES
     
+  
     Entrer dans l'ordre:
     -"Montant de l'emprunt immobilier : "
     -"Taux de l'emprunt : "
@@ -44,7 +45,11 @@
 
 import java.text.DecimalFormat;
 
+
 import java.util.*;
+
+    //CLASS
+
 
 
 public class CalcImmoFV{
