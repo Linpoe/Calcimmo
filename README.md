@@ -1,4 +1,4 @@
-# Java-project
+# CalcImmo
 
 En tant qu'investisseur dans l’immobilier, j’ai acheté un bien grâce à un apport et un emprunt bancaire. 
 Je souhaite saisir mes paramètres d’emprunts : montant, apport, taux, durée. 
